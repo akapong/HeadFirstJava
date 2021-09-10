@@ -8,6 +8,7 @@ public class App {
         int y = 12;
         if (y == 12){
             System.out.println("y == 12");
+            System.out.println("serverfix");
 
         }
         System.out.println("Hello, World!");
