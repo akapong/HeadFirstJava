@@ -3,6 +3,7 @@ public class App {
         int x = 20;
         if (x == 20){
             System.out.println("x == 20");
+            System.out.println("hotfix");
         }
         System.out.println("Hello, World!");
     }
