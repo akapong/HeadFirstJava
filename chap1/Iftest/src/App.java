@@ -10,6 +10,8 @@ public class App {
             System.out.println("y == 12");
             System.out.println("serverfix");
             System.out.println("serverfix");
+            System.out.println("test stash");
+            System.out.println("test sign");
 
         }
         System.out.println("Hello, World!");
